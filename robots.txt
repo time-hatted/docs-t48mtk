@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-o1cry8.rajabandot77jpg.lat/sitemap.xml
